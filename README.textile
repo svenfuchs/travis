@@ -1,5 +1,3 @@
 h1. Travis CI
 
 Travis was moved to the travis-ci organization: "Travis CI":http://github.com/travis-ci/travis-ci.
-
-We currently seem to have a serious "rm -rf" moment. Please see "http://support.github.com/discussions/repos/5604-migrate-repository-to-an-organization":http://support.github.com/discussions/repos/5604-migrate-repository-to-an-organization and stand by.
